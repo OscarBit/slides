@@ -24,9 +24,9 @@ _Not Ready for Production_
 
 ## Documentation
 
-<!-- - [**Documentation for `Slides`**](https://slides.docs.cern.ch/). -->
+- [**Documentation for `Slides`**](https://slides.docs.cern.ch/).
 <!-- - [Overview](docs/general): A short overview of the functionality. -->
-<a target="_blank" rel="noopener noreferrer" href="https://slides.docs.cern.ch/"><p>Documentation for `Slides`</p></a>
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
