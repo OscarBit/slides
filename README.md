@@ -4,7 +4,7 @@
  * **slides-creator** application
  * fully **web-based**
  * **Open-Source** Software under the MIT License
- * **made at CERN**, [the place where the web was born](https://home.cern/science/computing/birth-web){:target="_blank"}!
+ * **made at CERN**, [the place where the web was born](https://home.cern/science/computing/birth-web)!
 
 <div align="center">
   <sub>Created by <a href="https://twitter.com/aristofanischionis">Aristofanis Chionis</a> and maintained with ❤️ by CERN.</sub>
@@ -24,7 +24,8 @@ _Not Ready for Production_
 
 ## Documentation
 
-- [**Documentation for `Slides`**](https://slides.docs.cern.ch/){:target="_blank"}.
+<!-- - [**Documentation for `Slides`**](https://slides.docs.cern.ch/). -->
+- <a target="_blank" rel="noopener noreferrer" href="https://slides.docs.cern.ch/>Documentation for `Slides`</a>
 <!-- - [Overview](docs/general): A short overview of the functionality. -->
 
 ## Contributors
