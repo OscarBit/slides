@@ -2,15 +2,12 @@
   <img src="https://cds.cern.ch/images/CERN-PHOTO-201802-030-10/file?size=medium" alt="CERN" width="600" />
 </div>
 
-**Slides** is:
+**CERN Slides' App** is:
  * **slides-creator** application
  * fully **web-based**
- * **Open source** software
+ * **Open source**
  * **made at CERN**, [the place where the web was born](https://home.cern/science/computing/birth-web)!
 
-<div align="center">
-  <sub>Created @CERN.</sub>
-</div>
 
 ## Documentation
 
